@@ -1,0 +1,23 @@
+{
+  "name": "teams.microsoft",
+  "version": "1.0.0",
+  "description": "teams",
+  "main": "index.js",
+  "author": "iganari <XXX@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://teams.microsoft.com/",
+    "serviceName": "Microsoft teams",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
